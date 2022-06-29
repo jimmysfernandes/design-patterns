@@ -11,4 +11,10 @@ This patterns providers features for helping on objects creations, increasing pr
 | builder            |      ✔️     |
 | singleton          |      ✔️     |
 
+## Structural
 
+Structural patterns explain how to assemble objects and classes into larger structures while still keeping those structures flexible and efficient.
+
+| Patern             | Implements |
+| ------------------ | ---------- |
+| adapter            |      ✔️     |
